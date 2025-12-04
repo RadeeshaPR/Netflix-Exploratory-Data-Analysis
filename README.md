@@ -114,11 +114,9 @@ A bar chart was generated showing the **Top 10 Genres by Content Count**, includ
 📦 Netflix-EDA
  ┣ 📜 README.md
  ┣ 📊 Netflix_Exploratory_Data_Analysis.ipynb
- ┣ 📁 data/
- │   ┗ netflix_titles.csv
- ┣ 📁 visuals/
- │   ┗ (All generated plots)
- ┗ 📁 scripts/
+ ┣ netflix_titles.csv
+ ┗ (All generated plots)
+
 ```
 
 ---
